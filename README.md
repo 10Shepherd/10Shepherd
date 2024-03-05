@@ -1,8 +1,6 @@
-👋 Hi, I’m @EZClapLife11
-👀 I’m interested in ... Fivem Server Development
-🌱 I’m currently learning ... More
-💞️ I’m looking to collaborate on ... Fivem Development
-📫 How to reach me ... Discord ezclaplife
+👋 Hi, I’m @Shepherd
+👀 I’m interested in ... Fivem Development
+📫 How to reach me ... Discord 10shepherd
 
 <!---
 EZClapLife/EZClapLife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
