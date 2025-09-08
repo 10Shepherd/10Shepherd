@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Brian Shepherd</h1>
+<h1 align="center">Hi 👋, I'm Parth Magadum</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10shepherd&label=Profile%20views&color=0e75b6&style=flat" alt="10shepherd" /> </p>
 
 <p align="left"> <a href="https://twitter.com/10shepherddd" target="blank"><img src="https://img.shields.io/twitter/follow/10shepherddd?logo=twitter&style=for-the-badge" alt="10shepherddd" /></a> </p>
 
-- 🔭 I’m currently working on [Private Projects For PKNPL.](https://parthinfo.com/)
+- 🔭 I’m currently working on Private Projects and completing my studies.
 
 - 🌱 I’m currently learning **About Life.**
 
