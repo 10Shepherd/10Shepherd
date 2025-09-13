@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is 10shepherd and I'm from India.</h2>
+<h2 align="left">Hi 👋! My name is Parth Magadum and I'm from India.</h2>
 
 ###
 
