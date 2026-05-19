@@ -2,7 +2,7 @@
 
 ### A passionate developer from India
 
-- 🔭 I'm currently working on **a FiveM game server and building website for businesses**
+- 🔭 I'm currently working on **a FiveM game server and building websites for Businesses**
 
 - 📫 How to reach me **magadumparth5@gmail.com**
 
