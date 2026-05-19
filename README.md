@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10Shepherd&label=Profile views&color=0e75b6&style=flat" alt="10Shepherd" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=10Shepherd" alt="10Shepherd" /></a> </p>
+
 - 🔭 I'm currently working on **a FiveM game server and building website for businesses**
 
 - 📫 How to reach me **magadumparth5@gmail.com**
