@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10Shepherd&label=Profile views&color=0e75b6&style=flat" alt="10Shepherd" /> </p>
 
-![](https://hit.yhype.me/github/profile?account_id=90028579)
-
 - 🔭 I'm currently working on **a FiveM game server and building website for businesses**
 
 - 📫 How to reach me **magadumparth5@gmail.com**
@@ -25,3 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=10Shepherd&" alt="10Shepherd" /></p>
 
+![](https://hit.yhype.me/github/profile?account_id=90028579)
